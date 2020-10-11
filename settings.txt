@@ -1,0 +1,2 @@
+shiny_chance:8192
+count:0
