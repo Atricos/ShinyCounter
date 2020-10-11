@@ -9,6 +9,6 @@ A simple counter to keep track of how many Pokemon you've seen before finding a 
 
 To **download** the executable, simply download the **ShinyCounter folder**. If you're interested in the source code, check the src folder.
 
-Author: **Atricos**
-Programming Language: **Java, JFrame**
+Author: **Atricos**<br>
+Programming Language: **Java, JFrame**<br>
 Uploaded: **October 11th, 2020**
